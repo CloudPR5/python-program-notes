@@ -1,0 +1,1 @@
+# write a program to point multiplication table of n using for loops in reversed order.
